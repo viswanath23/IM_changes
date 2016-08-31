@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="x_proxi_im_new_field" label="New Field" language="en" table="incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_proxi_im_new_field</element>
+            <help/>
+            <hint/>
+            <label>New Field</label>
+            <language>en</language>
+            <name>incident</name>
+            <plural>New Fields</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ID845818</sys_created_by>
+            <sys_created_on>2016-08-31 19:43:30</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>b440db024f216a80232c66201310c72f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Field</sys_name>
+            <sys_package display_value="Incident Managment" source="x_proxi_im">6a07fae54f416e40232c66201310c7f2</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Incident Managment">6a07fae54f416e40232c66201310c7f2</sys_scope>
+            <sys_update_name>sys_documentation_incident_x_proxi_im_new_field_en</sys_update_name>
+            <sys_updated_by>ID845818</sys_updated_by>
+            <sys_updated_on>2016-08-31 19:43:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="text_index_translations=true,email_client=true,hasLabels=true,live_feed=true,hasWorkflow=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="120" text_index="true" type="collection">
+        <element label="New Field" max_length="100" name="x_proxi_im_new_field" type="string"/>
+    </element>
+</database>

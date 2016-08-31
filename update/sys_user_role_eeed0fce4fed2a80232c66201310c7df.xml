@@ -13,7 +13,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>ID845818</sys_created_by>
         <sys_created_on>2016-08-31 19:33:38</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>eeed0fce4fed2a80232c66201310c7df</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_proxi_im.Incident Managmer</sys_name>
