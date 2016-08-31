@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Incident Manager</description>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_proxi_im.Incident Managmer</name>
+        <suffix>Incident Managmer</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>ID845818</sys_created_by>
+        <sys_created_on>2016-08-31 19:33:38</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>eeed0fce4fed2a80232c66201310c7df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_proxi_im.Incident Managmer</sys_name>
+        <sys_package display_value="Incident Managment" source="x_proxi_im">6a07fae54f416e40232c66201310c7f2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Incident Managment">6a07fae54f416e40232c66201310c7f2</sys_scope>
+        <sys_update_name>sys_user_role_eeed0fce4fed2a80232c66201310c7df</sys_update_name>
+        <sys_updated_by>ID845818</sys_updated_by>
+        <sys_updated_on>2016-08-31 19:33:38</sys_updated_on>
+    </sys_user_role>
+</record_update>
